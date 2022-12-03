@@ -20,7 +20,7 @@ double getAvg() {
 }
 ```
 
-&ensp; getSum에 getKor, getEng, getMath 값을 넣습니다.
+&ensp; 총합에 국어점수, 영어점수, 수학점수 넣습니다.
 <br><br><br>
 
 ```eclipse
